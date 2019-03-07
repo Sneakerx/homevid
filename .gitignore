@@ -1,0 +1,17 @@
+_build/
+make.bat
+MANIFEST
+build
+dist
+*.egg-info
+*.pyc
+*.pyo
+env
+.DS_Store
+.tox
+.coverage
+.coverage.*
+coverage_out
+htmlcov
+.cache
+.pytest_cache/
