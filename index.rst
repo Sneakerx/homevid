@@ -10,6 +10,7 @@ Welcome to vidmod's documentation!
    :maxdepth: 2
    :caption: Contents:
    
+   introduction
    vidmods
 
 
